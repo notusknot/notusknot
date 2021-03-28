@@ -6,4 +6,4 @@
 - 📫 If you would like to contact me, add me on Discord (notusknot#5622)
 - ⚡ Fun fact: I like playing the drums
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notusknot)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notusknot&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
