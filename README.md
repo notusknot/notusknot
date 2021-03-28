@@ -7,5 +7,7 @@
 - ⚡ Fun fact: I like playing the drums
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=notusknot&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notusknot&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notusknot](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notusknot&repo=opuntia)](https://github.com/anuraghazra/github-readme-stats)
