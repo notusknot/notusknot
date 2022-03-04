@@ -1,10 +1,7 @@
-### Hi there 👋
+<h1 align='center'> > notusknot </h1>
+<p align='center'>
+I'm notusknot.
+</p>
+<p align='center'>Check me out at <a href="https://notusknot.com"> my website! </a></p>
 
-
-- 🔭 I’m currently working on learning web development
-- 🌱 I’m currently learning Django, Javascript, and Vue.js
-- 📫 If you would like to contact me, add me on Discord (notusknot#5622)
-- ⚡ Fun fact: I like playing the drums
-
-SapphireOS (collaborated project): https://github.com/sapphire-os/SapphireOS
-
+<h1 align='center'><i>Thanks for visiting!</i></h1>
