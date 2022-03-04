@@ -4,4 +4,4 @@ I'm notusknot.
 </p>
 <p align='center'>Check me out at <a href="https://notusknot.com"> my website! </a></p>
 
-<h1 align='center'><i>Thanks for visiting!</i></h1>
+<h3 align='center'><i>Thanks for visiting!</i></h1>
